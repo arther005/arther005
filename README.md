@@ -4,11 +4,8 @@
 
 I'm a passionate developer who loves building impactful solutions through code. My tech journey revolves around continuous learning, problem-solving, and contributing to the community.
 
-- 🔭 **Currently working on:** [Your project name – e.g., "A productivity app using Next.js"]
-- 🌱 **Currently learning:** [e.g., "django & cloud architecture"]
-- 🤝 **Looking to collaborate on:** Open-source projects, especially around [your interest – e.g., "developer tools"]
+- 🌱 **Currently learning:** [e.g., "django & flutter"]
 - 💬 **Ask me about:** [Your expertise – e.g., "React optimization, API design"]
-- ⚡ **Fun fact:** [e.g., "I can solve a Rubik's cube in under 2 minutes!"]
 
 ---
 
@@ -41,6 +38,3 @@ I'm a passionate developer who loves building impactful solutions through code. 
 
 ---
 
-📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](Your_LinkedIn_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](Your_Twitter_URL)
